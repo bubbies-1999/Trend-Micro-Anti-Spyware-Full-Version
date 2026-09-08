@@ -238,3 +238,6 @@ This repository serves as the official landing page for Trend Micro Anti-Spyware
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Trend Micro Anti-Spyware today!**
+
+---
+**Last updated:** 2026-09-08 16:24:45 UTC
