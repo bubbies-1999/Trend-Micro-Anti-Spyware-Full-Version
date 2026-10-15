@@ -240,4 +240,4 @@ This repository serves as the official landing page for Trend Micro Anti-Spyware
 **Get the most recent version of Trend Micro Anti-Spyware today!**
 
 ---
-**Last updated:** 2026-10-15 07:12:30 UTC
+**Last updated:** 2026-10-15 13:14:29 UTC
